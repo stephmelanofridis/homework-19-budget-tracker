@@ -3,6 +3,9 @@
 
 For this weeks homework we were provided with a completed front end for a budget tracker app. Our task was to add functionality that would allow for the user to be able to still use the app when it is offline and have it sync to the database when a connection is next established. 
 
+![image](https://user-images.githubusercontent.com/82196946/136900835-0d937a2a-b121-4732-b3d4-98bb4e19cf28.png)
+
+
 ## Table of Contents
 
 - [Technologies Used](#technologies-used)
@@ -24,7 +27,7 @@ Technologies used to make this site were:
 
 ## Deployed Site
 
-Link to deployed site: 
+Link to deployed site: https://homework-19-budget-tracker.herokuapp.com/
 
 ## License
 
